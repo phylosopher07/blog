@@ -44,7 +44,7 @@ E_\text{KE}^{(1)} &= \brktop{\psi^{(0)}}{ \hat{\hamiltonian}\rq_\text{KE} }{\psi
 &= -\frac{1}{2m_ec^2} \left[ E_n^2 +2E_n\frac{Ze^2}{4\pi\epzro}\Expct{\frac{1}{r}} + \left( \frac{Ze^2}{4\pi\epzro} \right)^2 \Expct{\frac{1}{r^2}} \right] \nl
 \end{align\*} \\]
 
-For the hydrogenic atoms, as we showed [here](/posts/kramers-relation-and-expectation-value/),
+For the hydrogenic atoms, as we showed [here](/blog/posts/kramers-relation-and-expectation-value/),
 
 \\[ \Expct{\frac{1}{r}} = \frac{Z}{n^2a_0},\; \Expct{\frac{1}{r^2}} = \frac{Z^2}{ (l+\frac{1}{2})n^3a_0^2 } \\]
 
@@ -125,7 +125,7 @@ E_\text{SO}^{(1)} &= \brktop{\psi^{(0)}}{ \hamiltonian_\text{SO}\rq }{\psi^{(0)}
 &= \frac{Ze^2}{8\pi\epzro} \frac{1}{m_e^2c^2} \Expct{\frac{1}{r^3}} \frac{\hbar^2}{2} \Big[ j(j+1)-l(l+1)-s(s+1) \Big]
 \end{align\*} \\]
 
-For the hydrogenic atoms [(also here)](/posts/kramers-relation-and-expectation-value/),
+For the hydrogenic atoms [(also here)](/blog/posts/kramers-relation-and-expectation-value/),
 
 \\[ \Expct{\frac{1}{r^3}} = \frac{Z^3}{n^3a_0^3} \frac{1}{l(l+\frac{1}{2})(l+1)} \\]
 

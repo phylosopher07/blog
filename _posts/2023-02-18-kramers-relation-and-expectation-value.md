@@ -145,7 +145,7 @@ By using **Hellmann–Feynman theorem** and **Kramers' relation**, we can induce
   <br><br>
 6. $ \Expct{\hamiltonian} = -\dfrac{Z^2e^2}{8\pi\epzro n^2a_0} $
   <br><br>
-  We showed it _[here](/posts/hydrogen-atom-schrodinger/)_.
+  We showed it _[here](/blog/posts/hydrogen-atom-schrodinger/)_.
   <br><br>
 7. $ \Expct{V} = -\dfrac{Z^2e^2}{4\pi\epzro n^2a_0} $
   <br><br>
